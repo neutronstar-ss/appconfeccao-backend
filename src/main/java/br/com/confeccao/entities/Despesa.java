@@ -50,6 +50,8 @@ public class Despesa implements Serializable{
 		this.id = id;
 	}
 
+	
+
 	public LocalDate getData() {
 		return data;
 	}
